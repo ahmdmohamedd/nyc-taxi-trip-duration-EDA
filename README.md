@@ -32,12 +32,12 @@ The dataset used for this analysis is `nyc_taxi_trip_duration.csv`. This dataset
 
 1. Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/ahmdmohamedd/nyc-taxi-trip-duration-analysis.git
+   git clone https://github.com/ahmdmohamedd/nyc-taxi-trip-duration-EDA.git
    ```
 
 2. Navigate to the repository folder:
    ```bash
-   cd nyc-taxi-trip-duration-analysis
+   cd nyc-taxi-trip-duration-EDA
    ```
 
 3. Ensure you have MATLAB installed on your machine.
